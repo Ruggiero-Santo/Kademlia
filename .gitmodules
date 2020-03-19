@@ -1,0 +1,3 @@
+[submodule "sha"]
+	path = sha
+	url = https://github.com/Ruggiero-Santo/sha
